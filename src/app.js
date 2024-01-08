@@ -100,26 +100,50 @@ class App extends Component {
       people: [
         {
           name: 'Ricardo Pena',
-          number: '(737) 318-3154',
+          number: '(465) 564-3154',
           dateOfBirth: 'March 1, 1997',
         },
 
         {
-          name: 'Ricardo Pena',
+          name: 'Rebeca Gonzalez',
+          number: '(897) 789-8679',
+          dateOfBirth: 'March 3, 2000',
+        },
+
+        {
+          name: 'Berty Araujo',
           number: '(737) 318-3154',
-          dateOfBirth: 'March 1, 1997',
+          dateOfBirth: 'March 3, 2015',
+        },
+
+        {
+          name: 'Alex Garcia',
+          number: '(567) 556-5342',
+          dateOfBirth: 'March 4, 1996',
         },
 
         {
           name: 'Ricardo Pena',
-          number: '(737) 318-3154',
+          number: '(465) 564-3154',
           dateOfBirth: 'March 1, 1997',
         },
 
         {
-          name: 'Ricardo Pena',
+          name: 'Rebeca Gonzalez',
+          number: '(897) 789-8679',
+          dateOfBirth: 'March 3, 2000',
+        },
+
+        {
+          name: 'Berty Araujo',
           number: '(737) 318-3154',
-          dateOfBirth: 'March 1, 1997',
+          dateOfBirth: 'March 3, 2015',
+        },
+
+        {
+          name: 'Alex Garcia',
+          number: '(567) 556-5342',
+          dateOfBirth: 'March 4, 1996',
         },
 
       ],
